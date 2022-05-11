@@ -1,5 +1,5 @@
 # ♦ Backend projeto Polaris ♦
-Fork do backend - projeto Polaris, realizado para efetuar alterações
+Fork do backend - projeto Polaris
 
 ##  :desktop_computer:  Arquitetura de Software no Desenvolvimento
 
